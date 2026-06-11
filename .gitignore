@@ -1,7 +1,5 @@
 # Data files — never push
 data/
-*.csv
-*.xlsx
 *.sqlite
 *.db
 
