@@ -1,5 +1,5 @@
 -- Data cleaning practice
-USE world_layoff_2;
+-- USE database;
 
 -- 1. Remove duplicate
 -- 2. Standadize the data
