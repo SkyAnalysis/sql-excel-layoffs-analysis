@@ -4,6 +4,12 @@
 
 This project analyzes global layoff trends across industries, countries, and company growth stages. The objective was to transform raw layoff data into actionable insights through SQL-based data cleaning and an interactive Power BI dashboard.
 
+### Check out my SQL & Dashboard video docummentaion my LINKEDIN page
+
+Dashboard - https://shorturl.at/md9vI
+
+SQL - https://shorturl.at/r1K4v
+
 ## Tools Used
 
 * SQL
